@@ -39,18 +39,17 @@ The initial health for both the player and monsters is 100.
 ### Directory
 This project consists of five classes: Initialize, Main, MonsterMove, PlayerMove, Print.
 <br>The diagram below shows the specific functionalities of each class.
-![image](/img/Directoryen.png)
+<img src="https://github.com/studyingWAWAYU/MonsterBane-minigame/blob/main/img/Directoryen.png" width="70%" height="70%"/>
 
 ### Code logic
 The following diagrams illustrate the logic of the Main, PlayerMove, and MonsterMove classes.
 <br>**Logic of Main.java class:**
-![image](/img/MainFLOWen.png)
+<img src="https://github.com/studyingWAWAYU/MonsterBane-minigame/blob/main/img/MainFLOWen.png" width="50%" height="50%"/>
 <br>
 <br>**Logic of PlayerMove.java class:**
-![image](/img/MonsterMoveFLOWen.png)
+<img src="https://github.com/studyingWAWAYU/MonsterBane-minigame/blob/main/img/PlayerMoveFLOWen.png" width="50%" height="50%"/>
 <br>
 <br>**Logic of MonsterMove.java class:**
-![image](/img/PlayerMoveFLOWen.png)
 <img src="https://github.com/studyingWAWAYU/MonsterBane-minigame/blob/main/img/MonsterMoveFLOWen.png" width="50%" height="50%"/>
 <br>
 
