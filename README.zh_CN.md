@@ -44,13 +44,13 @@
 ### 代码逻辑
 下面将展示Main, PlayerMove, MonsterMove三个重要类的流程图。
 <br>**Main.java类的逻辑：**
-![image](/img/MainFLOWzh.png)
+<br><img src="https://github.com/studyingWAWAYU/MonsterBane-minigame/blob/main/img/MainFLOWzh.png" width="50%" height="50%"/>
 <br>
 <br>**PlayerMove.java类的逻辑：**
-![image](/img/MonsterMoveFLOWzh.png)
+<br><img src="https://github.com/studyingWAWAYU/MonsterBane-minigame/blob/main/img/PlayerMoveFLOWzh.png" width="45%" height="45%"/>
 <br>
 <br>**MonsterMove.java类的逻辑：**
-![image](/img/PlayerMoveFLOWzh.png)
+<br><img src="https://github.com/studyingWAWAYU/MonsterBane-minigame/blob/main/img/MonsterMoveFLOWzh.png" width="60%" height="60%"/>
 <br>
 
 ### 管理者
