@@ -39,7 +39,7 @@
 ### 项目目录
 本项目由五个类组成：Initialize, Main, MonsterMove, PlayerMove, Print
 <br>下图展示了每个类的具体功能。
-![image](/img/Directoryzh.png)
+<img src="https://github.com/studyingWAWAYU/MonsterBane-minigame/blob/main/img/Directoryzh.png" width="70%" height="70%"/>
 
 ### 代码逻辑
 下面将展示Main, PlayerMove, MonsterMove三个重要类的流程图。
