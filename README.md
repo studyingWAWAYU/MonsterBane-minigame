@@ -43,7 +43,7 @@ This project consists of five classes: Initialize, Main, MonsterMove, PlayerMove
 
 ### Code logic
 The following diagrams illustrate the logic of the Main, PlayerMove, and MonsterMove classes.
-**Logic of Main.java class:**
+<br>**Logic of Main.java class:**
 ![image](/img/MainFLOWen.png)
 <br>
 <br>**Logic of PlayerMove.java class:**
