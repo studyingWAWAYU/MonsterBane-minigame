@@ -50,7 +50,7 @@ The following diagrams illustrate the logic of the Main, PlayerMove, and Monster
 ![image](/img/MonsterMoveFLOWen.png)
 <br>
 <br>**Logic of MonsterMove.java class:**
-![image](/img/PlayerMoveFLOWen.png){:height="50%" width="50%"}
+![image](/img/PlayerMoveFLOWen.png)
 <br>
 
 
