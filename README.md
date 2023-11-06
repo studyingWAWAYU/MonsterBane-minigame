@@ -51,6 +51,7 @@ The following diagrams illustrate the logic of the Main, PlayerMove, and Monster
 <br>
 <br>**Logic of MonsterMove.java class:**
 ![image](/img/PlayerMoveFLOWen.png)
+<img src="https://github.com/studyingWAWAYU/MonsterBane-minigame/blob/main/img/MonsterMoveFLOWen.png" width="50%" height="50%"/>
 <br>
 
 
