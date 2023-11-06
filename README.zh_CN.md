@@ -43,7 +43,7 @@
 
 ### 代码逻辑
 下面将展示Main, PlayerMove, MonsterMove三个重要类的流程图。
-**Main.java类的逻辑：**
+<br>**Main.java类的逻辑：**
 ![image](/img/MainFLOWzh.png)
 <br>
 <br>**PlayerMove.java类的逻辑：**
