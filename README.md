@@ -15,7 +15,7 @@ This is a homework assignment for a Java basic course.
 It implements a small game that can be operated in the console using basic Java classes.
 
 ### How to play
-**Download the code and run the *Main.java* file can start the game.**
+**Download the code and run the *src/Main.java* file can start the game.**
 <br>Upon starting the program, the game will print a 3x3 grid map.
 <br>The symbol "*" represents the player, and "%" represents monsters.
 <br>**The player can move by inputting "up," "down," "left," or "right" in the console.**
