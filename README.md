@@ -59,7 +59,7 @@ The following diagrams illustrate the logic of the Main, PlayerMove, and Monster
 
 ### Contributing
 Feel free to dive in Open an issue or submit PRs.  
-flask-ATM-Simulator follows the Contributor Covenant Code of Conduct.
+MonsterBane-minigame follows the Contributor Covenant Code of Conduct.
 
 ### License
 MIT License
