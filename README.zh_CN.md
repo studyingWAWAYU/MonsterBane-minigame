@@ -58,7 +58,7 @@
 
 ### 贡献
 Feel free to dive in Open an issue or submit PRs.  
-flask-ATM-Simulator follows the Contributor Covenant Code of Conduct.
+MonsterBane-minigame follows the Contributor Covenant Code of Conduct.
 
 ### 许可证
 MIT License
